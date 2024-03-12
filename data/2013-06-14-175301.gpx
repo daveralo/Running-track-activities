@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx
+  version="1.1"
+  creator="Runkeeper - http://www.runkeeper.com"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+  xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<trk>
+  <name><![CDATA[Cycling 6/14/13 5:53 pm]]></name>
+  <time>2013-06-14T17:53:01Z</time>
+<trkseg>
+<trkpt lat="4.677967000" lon="-74.056245000"><ele>2557.7</ele><time>2013-06-14T17:53:01Z</time></trkpt>
+<trkpt lat="4.677930000" lon="-74.056322000"><ele>2557.7</ele><time>2013-06-14T17:53:04Z</time></trkpt>
+<trkpt lat="4.677930000" lon="-74.056322000"><ele>2557.7</ele><time>2013-06-14T17:53:04Z</time></trkpt>
+</trkseg>
+</trk>
+</gpx>

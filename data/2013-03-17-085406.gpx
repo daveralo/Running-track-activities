@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx
+  version="1.1"
+  creator="Runkeeper - http://www.runkeeper.com"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+  xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<trk>
+  <name><![CDATA[Running 3/17/13 8:54 am]]></name>
+  <time>2013-03-17T13:54:06Z</time>
+<trkseg>
+<trkpt lat="4.643188000" lon="-74.099450000"><ele>2548.0</ele><time>2013-03-17T13:54:06Z</time></trkpt>
+<trkpt lat="4.643220000" lon="-74.099380000"><ele>2548.0</ele><time>2013-03-17T13:54:08Z</time></trkpt>
+<trkpt lat="4.643280000" lon="-74.099304000"><ele>2548.0</ele><time>2013-03-17T13:54:13Z</time></trkpt>
+<trkpt lat="4.643325000" lon="-74.099217000"><ele>2548.0</ele><time>2013-03-17T13:54:18Z</time></trkpt>
+<trkpt lat="4.643376000" lon="-74.099144000"><ele>2548.0</ele><time>2013-03-17T13:54:21Z</time></trkpt>
+<trkpt lat="4.643442000" lon="-74.099047000"><ele>2548.2</ele><time>2013-03-17T13:54:24Z</time></trkpt>
+<trkpt lat="4.643501000" lon="-74.098963000"><ele>2548.4</ele><time>2013-03-17T13:54:28Z</time></trkpt>
+<trkpt lat="4.643537000" lon="-74.098879000"><ele>2548.5</ele><time>2013-03-17T13:54:32Z</time></trkpt>
+<trkpt lat="4.643561000" lon="-74.098796000"><ele>2548.5</ele><time>2013-03-17T13:54:37Z</time></trkpt>
+<trkpt lat="4.643615000" lon="-74.098713000"><ele>2548.5</ele><time>2013-03-17T13:54:43Z</time></trkpt>
+<trkpt lat="4.643662000" lon="-74.098638000"><ele>2548.5</ele><time>2013-03-17T13:54:48Z</time></trkpt>
+<trkpt lat="4.643719000" lon="-74.098565000"><ele>2548.5</ele><time>2013-03-17T13:54:53Z</time></trkpt>
+<trkpt lat="4.643773000" lon="-74.098483000"><ele>2548.5</ele><time>2013-03-17T13:54:59Z</time></trkpt>
+<trkpt lat="4.643839000" lon="-74.098415000"><ele>2548.6</ele><time>2013-03-17T13:55:04Z</time></trkpt>
+<trkpt lat="4.643891000" lon="-74.098346000"><ele>2548.7</ele><time>2013-03-17T13:55:08Z</time></trkpt>
+<trkpt lat="4.643928000" lon="-74.098273000"><ele>2548.8</ele><time>2013-03-17T13:55:13Z</time></trkpt>
+<trkpt lat="4.643971000" lon="-74.098198000"><ele>2548.6</ele><time>2013-03-17T13:55:22Z</time></trkpt>
+<trkpt lat="4.643971000" lon="-74.098198000"><ele>2548.3</ele><time>2013-03-17T13:55:23Z</time></trkpt>
+</trkseg>
+</trk>
+</gpx>

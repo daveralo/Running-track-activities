@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx
+  version="1.1"
+  creator="Runkeeper - http://www.runkeeper.com"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+  xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<trk>
+  <name><![CDATA[Walking 2/22/22 7:57 pm]]></name>
+  <time>2022-02-23T00:57:31Z</time>
+<trkseg>
+<trkpt lat="4.478653000" lon="-75.698828000"><ele>1337.3</ele><time>2022-02-23T00:57:31Z</time></trkpt>
+<trkpt lat="4.478605000" lon="-75.698761000"><ele>1337.3</ele><time>2022-02-23T00:57:50Z</time></trkpt>
+<trkpt lat="4.478558000" lon="-75.698688000"><ele>1337.2</ele><time>2022-02-23T00:58:13Z</time></trkpt>
+<trkpt lat="4.478495000" lon="-75.698630000"><ele>1337.2</ele><time>2022-02-23T00:58:26Z</time></trkpt>
+<trkpt lat="4.478461000" lon="-75.698551000"><ele>1337.2</ele><time>2022-02-23T00:58:36Z</time></trkpt>
+<trkpt lat="4.478418000" lon="-75.698478000"><ele>1337.3</ele><time>2022-02-23T00:58:45Z</time></trkpt>
+<trkpt lat="4.478390000" lon="-75.698400000"><ele>1337.4</ele><time>2022-02-23T00:58:59Z</time></trkpt>
+<trkpt lat="4.478378000" lon="-75.698316000"><ele>1337.5</ele><time>2022-02-23T00:59:10Z</time></trkpt>
+<trkpt lat="4.478325000" lon="-75.698248000"><ele>1337.4</ele><time>2022-02-23T00:59:23Z</time></trkpt>
+<trkpt lat="4.478296000" lon="-75.698171000"><ele>1337.3</ele><time>2022-02-23T00:59:31Z</time></trkpt>
+<trkpt lat="4.478250000" lon="-75.698095000"><ele>1337.3</ele><time>2022-02-23T00:59:44Z</time></trkpt>
+<trkpt lat="4.478218000" lon="-75.698020000"><ele>1337.3</ele><time>2022-02-23T00:59:58Z</time></trkpt>
+<trkpt lat="4.478165000" lon="-75.697948000"><ele>1337.3</ele><time>2022-02-23T01:00:11Z</time></trkpt>
+<trkpt lat="4.478131000" lon="-75.697870000"><ele>1337.3</ele><time>2022-02-23T01:00:25Z</time></trkpt>
+<trkpt lat="4.478103000" lon="-75.697793000"><ele>1337.2</ele><time>2022-02-23T01:00:35Z</time></trkpt>
+<trkpt lat="4.478086000" lon="-75.697706000"><ele>1337.0</ele><time>2022-02-23T01:00:49Z</time></trkpt>
+<trkpt lat="4.478045000" lon="-75.697633000"><ele>1336.6</ele><time>2022-02-23T01:01:01Z</time></trkpt>
+<trkpt lat="4.478058000" lon="-75.697551000"><ele>1336.3</ele><time>2022-02-23T01:01:11Z</time></trkpt>
+<trkpt lat="4.478050000" lon="-75.697465000"><ele>1335.8</ele><time>2022-02-23T01:01:22Z</time></trkpt>
+<trkpt lat="4.478021000" lon="-75.697380000"><ele>1335.4</ele><time>2022-02-23T01:01:31Z</time></trkpt>
+<trkpt lat="4.478011000" lon="-75.697298000"><ele>1334.9</ele><time>2022-02-23T01:01:41Z</time></trkpt>
+<trkpt lat="4.477976000" lon="-75.697213000"><ele>1334.5</ele><time>2022-02-23T01:01:53Z</time></trkpt>
+<trkpt lat="4.477966000" lon="-75.697128000"><ele>1334.0</ele><time>2022-02-23T01:02:02Z</time></trkpt>
+<trkpt lat="4.477943000" lon="-75.697046000"><ele>1333.5</ele><time>2022-02-23T01:02:10Z</time></trkpt>
+<trkpt lat="4.477914000" lon="-75.696960000"><ele>1332.9</ele><time>2022-02-23T01:02:17Z</time></trkpt>
+<trkpt lat="4.477901000" lon="-75.696876000"><ele>1332.6</ele><time>2022-02-23T01:02:29Z</time></trkpt>
+<trkpt lat="4.477900000" lon="-75.696788000"><ele>1332.3</ele><time>2022-02-23T01:02:38Z</time></trkpt>
+<trkpt lat="4.477908000" lon="-75.696706000"><ele>1332.1</ele><time>2022-02-23T01:02:44Z</time></trkpt>
+<trkpt lat="4.477916000" lon="-75.696621000"><ele>1331.9</ele><time>2022-02-23T01:03:36Z</time></trkpt>
+<trkpt lat="4.477918000" lon="-75.696583000"><ele>1331.7</ele><time>2022-02-23T01:03:53Z</time></trkpt>
+</trkseg>
+</trk>
+</gpx>
