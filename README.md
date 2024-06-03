@@ -1,6 +1,6 @@
 # Running track activities
 
-This solution allowed me to search for which cardio activities I have done of Running on a race track. For this I used my activities registered in [Runkeeper] (https://runkeeper.com/) and it allowed me to export the data.
+This solution allowed me to search for which cardio activities I have done of Running on a race track. For this I used my activities registered in [Runkeeper](https://runkeeper.com/) and it allowed me to export the data.
 The files are:
 * cardioActivities.csv: file with the list of activities with the following fields: 
 Activity Id	
